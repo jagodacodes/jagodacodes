@@ -4,7 +4,7 @@
 ## I'm currently learning
 ### I am trying to improve my Python scripting  skills, as well as how to optimize my Alteryx workflows, how to move around excel as efficiently as possible, 
 ## I'm looking for help with 
-###If you feel like my projects could be in any way more effective, better architected, better organised, then dont hesitate to give me your advice. I will appreciate it.
+### If you feel like my projects could be in any way more effective, better architected, better organised, then dont hesitate to give me your advice. I will appreciate it.
 ## How to reach me
 ### Please reach me via linkedIn provided in bio :D 
 
